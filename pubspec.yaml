@@ -1,7 +1,7 @@
 name: mockery
 description: Simple mock recipes for making Flutter testing easier.
 version: 0.0.1
-author: matt.j.sullivan@gmail.com
+author: Matt Sullivan <matt.j.sullivan@gmail.com>
 homepage: https://github/com/mjohnsullivan/mockery
 
 dependencies:
@@ -12,3 +12,7 @@ dev_dependencies:
     sdk: flutter
   flutter_test:
     sdk: flutter
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
