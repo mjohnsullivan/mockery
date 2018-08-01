@@ -1,0 +1,14 @@
+name: mockery
+description: Simple mock recipes for making Flutter testing easier.
+version: 0.0.1
+author: matt.j.sullivan@gmail.com
+homepage: https://github/com/mjohnsullivan/mockery
+
+dependencies:
+  mockito: 3.0.0-beta
+
+dev_dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
